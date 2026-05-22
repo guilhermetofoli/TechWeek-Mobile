@@ -1,4 +1,4 @@
-# WeekTech - Unicesumar
+# TechWeek - Unicesumar
 
 ### 1. Visão Geral
 
